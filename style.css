@@ -1,0 +1,162 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+header {
+	background: #ffffff;
+	border-bottom: 2px solid #585858;
+	width: 100%;
+  	margin-bottom: 20px;
+  	float: left;
+  	padding-right: 53px;
+}
+
+.header {
+	float: right;
+	margin-right: 184px;
+	display: flex;
+	flex-direction: row;
+	font-size: 18px;
+}
+
+a {
+	color: #9A9797;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+body {
+	background: #dfdfdf;
+}
+
+h1 {
+	background: #4aaaa5;
+	color: #fff;
+	text-align: center;
+	float: left;
+	width: 270px;
+	height: 100%;
+	padding: 10px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	margin-left: 184px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding-top: 15px;
+	padding-bottom: 25px;
+}
+
+.name {
+	border-bottom: 3px solid #dfdfdf;
+	text-align: left;
+	padding-bottom: 30px;
+	color: #4aaaa5;
+	font-size: 36px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.form {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 100%;
+}
+
+
+.container {
+	background: #ffffff;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	margin: 20px;
+	padding: 20px;
+	line-height: 100%;
+	border color: #dddddd;
+	float: left;
+	width: 650px;
+	border: solid #ffffff;
+	margin-left: 184px;
+}
+
+#portfolio {
+	display: inline-flex;
+	flex-direction: column;
+	float: left;
+}
+
+.images {
+	flex-direction: column;
+}
+
+
+#bio-image {
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+}
+
+.sidebar {
+	width: 270px;
+	height: 150px;
+	float: left;
+	border: solid #ffffff;
+	background: #ffffff;
+	margin: 20px;
+	position: relative;
+}
+
+h3 {
+	border-bottom: 2px solid #dfdfdf;
+	bottom: 50%;
+	width: 240px;
+	margin-left: 10px;
+	text-align: center;
+	padding-bottom: 11px;
+	color: #4aaaa5;
+	font-size: 21px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.Mail {
+	float: left;
+	padding: 5px;
+}
+
+.Git {
+	float: left;
+	padding: 5px;
+}
+
+.LinkedIn {
+	float: left;
+	padding: 5px;
+}
+
+.Weebly {
+	float: left;
+	padding: 5px;
+}
+
+footer {
+    background: #666666;
+    color: #ffffff;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+    margin-top: 650px;
+    position: absolute;
+    width: 100%;
+    border-top-color: solid #4aaaa5;
+    border-top: 5px solid #4aaaa5;
+}
+
+.button {
+	background: #4aaaa5;
+	color: #ffffff;
+}
+
