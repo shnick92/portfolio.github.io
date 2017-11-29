@@ -125,7 +125,7 @@ form {
 	position: relative;
 }
 
-#project {
+.project {
 	position: absolute;
 	background: #4aaaa5;
 	color: #ffffff;
@@ -136,26 +136,26 @@ form {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-h4 {
+.project1 {
 	top: 85px;
 }
 
-h5 {
+.project2 {
 	top: 150px;
 	margin-top: 115.15px;
 }
 
-h6 {
+.project3 {
 	top: 150px;
 	margin-top: 280.15px;
 }
 
-.pig {
+.project4 {
 	top: 100px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-.burger {
+.project5 {
 	top: 150px;
 	margin-top: 115.15px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
