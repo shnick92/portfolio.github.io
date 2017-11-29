@@ -90,10 +90,12 @@ input[type=submit]:hover {
     float: left;
 }
 
-
-
 .clear {
     clear: both;
+}
+
+#main-bio {
+	line-height: 150%;
 }
 
 .container {
@@ -108,6 +110,7 @@ input[type=submit]:hover {
 	width: 650px;
 	border: solid #ffffff;
 	margin-left: 184px;
+	font-size: 16px;
 }
 
 form {
