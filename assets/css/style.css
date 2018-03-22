@@ -166,10 +166,6 @@ form {
 }
 
 .project4 {
-	top: 100px;
-}
-
-.project5 {
 	top: 150px;
 	margin-top: 115.15px;
 }
@@ -469,5 +465,4 @@ footer {
     /*border-top-color: solid #4aaaa5;*/
     border-top: 5px solid #4aaaa5;
 }
-
 }
